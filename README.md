@@ -4,11 +4,6 @@
 
 This project implements a simple calculator that processes expressions written in postfix notation (also known as Reverse Polish Notation). The calculator supports operations for addition, multiplication, and exponentiation of arbitrarily large integers using a custom `BigInt` class.
 
-## Author
-
-- **Name:** [Your Name]
-- **Student ID:** [Your Student ID]
-
 ## Files and Directories
 
 - **src/**
